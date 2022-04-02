@@ -4,7 +4,7 @@
 [<img height="50" width="150px" src="https://github.com/Pesati/Hackthanon/blob/main/safra.png" />](https://www.safra.com.br/)
 
 # Descrição
-Ferramenta desenvolvida no **Hackathon Technee do 2022 Banco Safra**.
+Ferramenta desenvolvida no **Hackathon Technee Banco Safra 2022**.
 O programa tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
 
 O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de começar investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamentos em aplicações de investimentos.

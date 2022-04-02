@@ -1,8 +1,7 @@
 # Safra Bank Investment
 ##### _Web Page - Programa de Fidelidade_
 
-[![N|Solid](https://www.safra.com.br/lumis-theme/br/com/bancosafra/safranet/theme/safranet/assets/img/logo-safra.svg)](https://nodesource.com/products/nsolid) 
-
+[<img height="50" width="150px" src="https://github.com/Pesati/Hackthanon/blob/main/safra.png" />](https://www.safra.com.br/)
 
 # Descrição
 Ferramenta desenvolvida no **Hackathon Technee do 2022 Banco Safra**.

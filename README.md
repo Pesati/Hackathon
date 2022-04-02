@@ -4,8 +4,8 @@
 [<img height="50" width="150px" src="https://github.com/Pesati/Hackthanon/blob/main/safra.png" />](https://www.safra.com.br/)
 
 ## Descrição
-Ferramenta desenvolvida no **Hackathon Technee Banco Safra 2022**.
-O programa tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
+
+O sistema tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
 
 O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de começar investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamentos em aplicações de investimentos.
 Após a consultoria, o cliente responde um questionário onde será definido o seu perfil de investidor (conservador, moderado ou agressivo) e, então, o cliente é encaminhado para a plataforma de investimentos.
@@ -14,6 +14,11 @@ Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções
 
 O programa de benefícios oferecido pela instituição estimula novos investidores a investirem no Banco Safra e potencializa a permanência e migração dos clientes atuais.
 
+## Projeto
+
+Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio** proposto foi o seguinte:
+
+*"Como podemos inovar e nos diferenciar criando experiências simples, transparentes e instantâneas para os nossos clientes e parceiros, com soluções digitais disruptivas em cenários de crescimento exponencial?"*
 
 ## Tecnologias
 - **Linguagem de Programação** - [Python](https://www.python.org/) - Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.

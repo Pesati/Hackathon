@@ -1,30 +1,29 @@
 # Safra Bank Investment
 ###### _Web page - Programa de fidelidade_
 
- [![N|Solid](https://www.safra.com.br/lumis-theme/br/com/bancosafra/safranet/theme/safranet/assets/img/logo-safra.svg)](https://nodesource.com/products/nsolid) 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.safra.com.br/)
 
 # Descrição
-Ferramenta desenvolvida no **Hackathon technee do 2022 banco safra**.
-O programa tem Como intuito o direcionamento para a captação de clientes, visando para os mesmos futuros beneficios com aplicações de curto a longo prazo.
+Ferramenta desenvolvida no **Hackathon Technee do 2022 Banco Safra**.
+O programa tem como intuito a captação de clientes, visando para os mesmos futuros benefícios com investimentos de curto a longo prazo.
 
-O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de investir, porém não sabem por onde começar. No entanto, o projeto abrange também pessoas que ja investem, mas gostariam de ter um objetivo em sua vida e ampliar os investimentos. 
+O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de investir, porém não sabem por onde começar. No entanto, o projeto abrange também pessoas que ja investem, mas gostariam de ter um objetivo em sua vida e ampliar os investimentos.
 
 # Techs Aplicadas
-**PYTHON** - [PYTHON.ORG](https://www.python.org/) 
+**Linguagem de Programação** - [PYTHON.ORG](https://www.python.org/) 
  Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
  
-**MySQL** - [MySQL.COM](https://www.mysql.com/)
+**Banco de Dados** - [MySQL.COM](https://www.mysql.com/)
 Sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. Banco de dados utilizado para uso das API's disponibilizadas pelo Open Banking.
 
-**HTML** - [W3SCHOOL](https://www.w3schools.com/html/)
+**Linguagem de Marcação** - [W3SCHOOL](https://www.w3schools.com/html/)
 Definida como "Linguagem de Marcação de Hipertexto" é uma tecnologia utilizada na construção de web pages. 
 
-**CSS** - [W3SCHOOL](https://www.w3schools.com/html/)
+**Cascading Style Sheet** - [W3SCHOOL](https://www.w3schools.com/html/)
 CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma tecnologia de estilo (en-US) usada para descrever a apresentação de um documento escrito em HTML ou em XML.
 
-**JavaScript** - [Javascript](https://www.javascript.com/)
+**Linguagem de Programação** - [Javascript](https://www.javascript.com/)
 É uma linguagem de programação interpretada estruturada que permite páginas da Web interativas. Também é utilizada para client-side em navegadores web e utilizada do lado do servidor.
 
 # API's Utilizadas

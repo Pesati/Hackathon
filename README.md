@@ -4,8 +4,6 @@
 [![N|Solid](https://www.safra.com.br/lumis-theme/br/com/bancosafra/safranet/theme/safranet/assets/img/logo-safra.svg)](https://nodesource.com/products/nsolid) 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.safra.com.br/)
-
 # Descrição
 Ferramenta desenvolvida no **Hackathon Technee do 2022 Banco Safra**.
 O programa tem como intuito a captação de clientes, visando para os mesmos futuros benefícios com investimentos de curto a longo prazo.

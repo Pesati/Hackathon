@@ -14,7 +14,7 @@ Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções
 
 O programa de benefícios oferecido pela instituição estimula novos investidores a investirem no Banco Safra e potencializa a permanência e migração dos clientes atuais.
 
-## Projeto
+## Desafio
 
 Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio** proposto foi o seguinte:
 

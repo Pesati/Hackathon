@@ -8,7 +8,7 @@
 Ferramenta desenvolvida no **Hackathon Technee do 2022 Banco Safra**.
 O programa tem como intuito a captação de clientes, visando para os mesmos futuros benefícios com investimentos de curto a longo prazo.
 
-O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de investir, porém não sabem por onde começar. No entanto, o projeto abrange também pessoas que ja investem, mas gostariam de ter um objetivo em sua vida e ampliar os investimentos.
+O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamento em aplicações de investimentos. No entanto, o projeto abrange também pessoas que ja investem, mas gostariam de ter um objetivo em sua vida e ampliar os investimentos.
 
 # Techs Aplicadas
 **Linguagem de Programação** - [PYTHON.ORG](https://www.python.org/) 

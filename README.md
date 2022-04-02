@@ -7,10 +7,10 @@
 
 O sistema tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
 
-O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de começar investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamentos em aplicações de investimentos.
+O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de começar a investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamentos em aplicações de investimentos.
 Após a consultoria, o cliente responde um questionário onde será definido o seu perfil de investidor (conservador, moderado ou agressivo) e, então, o cliente é encaminhado para a plataforma de investimentos.
 
-Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções de investimentos do Banco Safra e de outras instiuições, com os dados obtidos através do Open Banking. Uma vez que o mesmo opte por investir em aplicações do Banco Safra, serão oferecidos benefícios (seguro viagem, previdência, etc) que irão variar dependendo do montante total aplicado.
+Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções de investimentos do Banco Safra e de outras instituições, com os dados obtidos através do Open Banking. Uma vez que o mesmo opte por investir em aplicações do Banco Safra, serão oferecidos benefícios (seguro viagem, previdência, etc) que irão variar dependendo do montante total aplicado.
 
 O programa de benefícios oferecido pela instituição estimula novos investidores a investirem no Banco Safra e potencializa a permanência e migração dos clientes atuais.
 

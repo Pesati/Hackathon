@@ -1,9 +1,9 @@
-# Safra Banking
+# Safra Banking / Safra Invest / Safra - Consultoria e Investimento
 ##### _Web Page - Programa de Fidelidade_
 
 [<img height="50" width="150px" src="https://github.com/Pesati/Hackthanon/blob/main/safra.png" />](https://www.safra.com.br/)
 
-# Descrição
+## Descrição
 Ferramenta desenvolvida no **Hackathon Technee Banco Safra 2022**.
 O programa tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
 
@@ -15,7 +15,7 @@ Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções
 O programa de benefícios oferecido pela instituição estimula novos investidores a investirem no Banco Safra e potencializa a permanência e migração dos clientes atuais.
 
 
-# Techs Aplicadas
+## Tecnologias
 - **Linguagem de Programação** - [Python](https://www.python.org/) - Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
  
 - **Banco de Dados** - [MySQL](https://www.mysql.com/) - Sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. Banco de dados utilizado para uso das API's disponibilizadas pelo Open Banking.
@@ -26,7 +26,7 @@ O programa de benefícios oferecido pela instituição estimula novos investidor
 
 - **Linguagem de Programação** - [Javascript](https://www.javascript.com/) - É uma linguagem de programação interpretada estruturada que permite páginas da Web interativas. Também é utilizada para client-side em navegadores web e utilizada do lado do servidor.
 
-# API's Utilizadas
+## API's Utilizadas
 | API   | Descrição      |
 |-------------|-------------|
 | Contas | A API Contas viabiliza o compartilhamento das informações de contas de depósito à vista, contas de poupança e contas de pagamento pré-paga tais como limites, transações e saldos|
@@ -34,10 +34,10 @@ O programa de benefícios oferecido pela instituição estimula novos investidor
 | Dados cadastrais | A API Dados Cadastrais permite a consulta aos dados cadastrais de clientes, incluindo também dados de qualificação e de relacionamento financeiro.|
 | Investimentos | A API Investimentos as instituições financeiras participantes podem consultar a lista de Fundos de Investimentos de outras instituições participantes |
 
-# Vídeo demonstrativo
+## Vídeo demonstrativo
 [LINK VÍDEO](youtube.com/)
 
-# Autores 
+## Autores 
 
 - [Anderson Silva](https://www.linkedin.com/in/anderson-lima-34945a110/)
 - [André Pesati](https://www.linkedin.com/in/andrepesati/)

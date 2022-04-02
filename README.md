@@ -1,4 +1,4 @@
-# Safra Bank Investment
+# Safra Banking
 ##### _Web Page - Programa de Fidelidade_
 
 [<img height="50" width="150px" src="https://github.com/Pesati/Hackthanon/blob/main/safra.png" />](https://www.safra.com.br/)
@@ -16,20 +16,15 @@ O programa de benefícios oferecido pela instituição estimula novos investidor
 
 
 # Techs Aplicadas
-- **Linguagem de Programação** - [PYTHON.ORG](https://www.python.org/) 
- Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
+- **Linguagem de Programação** - [Python](https://www.python.org/) - Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
  
-- **Banco de Dados** - [MySQL.COM](https://www.mysql.com/)
-Sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. Banco de dados utilizado para uso das API's disponibilizadas pelo Open Banking.
+- **Banco de Dados** - [MySQL](https://www.mysql.com/) - Sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. Banco de dados utilizado para uso das API's disponibilizadas pelo Open Banking.
 
-- **Linguagem de Marcação** - [W3SCHOOL](https://www.w3schools.com/html/)
-Definida como "Linguagem de Marcação de Hipertexto" é uma tecnologia utilizada na construção de web pages. 
+- **Linguagem de Marcação** - [HTML](https://www.w3schools.com/html/) - Definida como "Linguagem de Marcação de Hipertexto" é uma tecnologia utilizada na construção de web pages. 
 
-- **Cascading Style Sheet** - [W3SCHOOL](https://www.w3schools.com/html/)
-CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma tecnologia de estilo (en-US) usada para descrever a apresentação de um documento escrito em HTML ou em XML.
+- **Cascading Style Sheet** - [CSS](https://www.w3schools.com/html/) - Cascading Style Sheets ou Folhas de Estilo em Cascata é uma tecnologia de estilo (en-US) usada para descrever a apresentação de um documento escrito em HTML ou em XML.
 
-- **Linguagem de Programação** - [Javascript](https://www.javascript.com/)
-É uma linguagem de programação interpretada estruturada que permite páginas da Web interativas. Também é utilizada para client-side em navegadores web e utilizada do lado do servidor.
+- **Linguagem de Programação** - [Javascript](https://www.javascript.com/) - É uma linguagem de programação interpretada estruturada que permite páginas da Web interativas. Também é utilizada para client-side em navegadores web e utilizada do lado do servidor.
 
 # API's Utilizadas
 | API   | Descrição      |

@@ -6,24 +6,30 @@
 
 # Descrição
 Ferramenta desenvolvida no **Hackathon Technee do 2022 Banco Safra**.
-O programa tem como intuito a captação de clientes, visando para os mesmos futuros benefícios com investimentos de curto a longo prazo.
+O programa tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
 
-O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamento em aplicações de investimentos. No entanto, o projeto abrange também pessoas que ja investem, mas gostariam de ter um objetivo em sua vida e ampliar os investimentos.
+O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de começar investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamentos em aplicações de investimentos.
+Após a consultoria, o cliente responde um questionário onde será definido o seu perfil de investidor (conservador, moderado ou agressivo) e, então, o cliente é encaminhado para a plataforma de investimentos.
+
+Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções de investimentos do Banco Safra e de outras instiuições, com os dados obtidos através do Open Banking. Uma vez que o mesmo opte por investir em aplicações do Banco Safra, serão oferecidos benefícios (seguro viagem, previdência, etc) que irão variar dependendo do montante total aplicado.
+
+O programa de benefícios oferecido pela instituição estimula novos investidores a investirem no Banco Safra e potencializa a permanência e migração dos clientes atuais.
+
 
 # Techs Aplicadas
 - **Linguagem de Programação** - [PYTHON.ORG](https://www.python.org/) 
  Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
  
-**Banco de Dados** - [MySQL.COM](https://www.mysql.com/)
+- **Banco de Dados** - [MySQL.COM](https://www.mysql.com/)
 Sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. Banco de dados utilizado para uso das API's disponibilizadas pelo Open Banking.
 
-**Linguagem de Marcação** - [W3SCHOOL](https://www.w3schools.com/html/)
+- **Linguagem de Marcação** - [W3SCHOOL](https://www.w3schools.com/html/)
 Definida como "Linguagem de Marcação de Hipertexto" é uma tecnologia utilizada na construção de web pages. 
 
-**Cascading Style Sheet** - [W3SCHOOL](https://www.w3schools.com/html/)
+- **Cascading Style Sheet** - [W3SCHOOL](https://www.w3schools.com/html/)
 CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma tecnologia de estilo (en-US) usada para descrever a apresentação de um documento escrito em HTML ou em XML.
 
-**Linguagem de Programação** - [Javascript](https://www.javascript.com/)
+- **Linguagem de Programação** - [Javascript](https://www.javascript.com/)
 É uma linguagem de programação interpretada estruturada que permite páginas da Web interativas. Também é utilizada para client-side em navegadores web e utilizada do lado do servidor.
 
 # API's Utilizadas
@@ -33,6 +39,9 @@ CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma tecnologia de
 | Seguro imóveis, automóveis e pessoais. | A API Seguros As instituições financeiras participantes podem consultar as informações de seguros de outras instituições participantes |
 | Dados cadastrais | A API Dados Cadastrais permite a consulta aos dados cadastrais de clientes, incluindo também dados de qualificação e de relacionamento financeiro.|
 | Investimentos | A API Investimentos as instituições financeiras participantes podem consultar a lista de Fundos de Investimentos de outras instituições participantes |
+
+# Vídeo demonstrativo
+[LINK VÍDEO](youtube.com/)
 
 # Autores 
 

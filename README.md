@@ -11,7 +11,7 @@ O programa tem como intuito a captação de clientes, visando para os mesmos fut
 O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamento em aplicações de investimentos. No entanto, o projeto abrange também pessoas que ja investem, mas gostariam de ter um objetivo em sua vida e ampliar os investimentos.
 
 # Techs Aplicadas
-**Linguagem de Programação** - [PYTHON.ORG](https://www.python.org/) 
+- **Linguagem de Programação** - [PYTHON.ORG](https://www.python.org/) 
  Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
  
 **Banco de Dados** - [MySQL.COM](https://www.mysql.com/)

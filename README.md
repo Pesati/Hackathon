@@ -1,6 +1,8 @@
 # Safra Bank Investment
 ###### _Web page - Programa de fidelidade_
 
+[![N|Solid](https://www.safra.com.br/lumis-theme/br/com/bancosafra/safranet/theme/safranet/assets/img/logo-safra.svg)](https://nodesource.com/products/nsolid) 
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.safra.com.br/)
 

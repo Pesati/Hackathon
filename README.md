@@ -35,7 +35,7 @@ Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio**
 | API   | Descrição      |
 |-------------|-------------|
 | Contas | A API Contas viabiliza o compartilhamento das informações de contas de depósito à vista, contas de poupança e contas de pagamento pré-paga tais como limites, transações e saldos|
-| Seguro imóveis, automóveis e pessoais. | A API Seguros As instituições financeiras participantes podem consultar as informações de seguros de outras instituições participantes |
+| Seguro imóveis, automóveis e pessoais. | A API Seguros as instituições financeiras participantes podem consultar as informações de seguros de outras instituições participantes |
 | Dados cadastrais | A API Dados Cadastrais permite a consulta aos dados cadastrais de clientes, incluindo também dados de qualificação e de relacionamento financeiro.|
 | Investimentos | A API Investimentos as instituições financeiras participantes podem consultar a lista de Fundos de Investimentos de outras instituições participantes |
 

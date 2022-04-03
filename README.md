@@ -1,7 +1,7 @@
 # Safra Smart Invest
 ##### _Web Page - Consultoria e Investimento_
 
-[<img height="50" width="150px" src="https://github.com/Pesati/Hackthanon/blob/main/safra.png" />](https://www.safra.com.br/)
+[<img width="1000px" src="https://github.com/Pesati/Hackathon/blob/main/assets/safra_smart_invest.png" />](https://www.safra.com.br/)
 
 ## Descrição
 

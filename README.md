@@ -5,14 +5,9 @@
 
 ## Descrição
 
-O sistema tem como objetivo a captação de clientes, visando para os mesmos futuros beneficios com investimentos de curto a longo prazo.
+A Safra Smart Invest é a sua plataforma de investimentos personalizada, segura e descomplicada para a realização de sonhos. Após o cadastro na nossa plataforma, os clientes ganham uma consultoria de investimentos gratuita, com a possibilidade de ser mais personalizada caso ele opte por consentir em compartilhar seus dados financeiros de outras instituições conosco através do Open Banking. 
 
-O projeto foi desenvolvido inicialmente com foco em atender pessoas que gostariam de começar a investir, porém não possuem informações suficientes. Para isso, o programa oferece consultorias com direcionamentos em aplicações de investimentos.
-Após a consultoria, o cliente responde um questionário onde será definido o seu perfil de investidor (conservador, moderado ou agressivo) e, então, o cliente é encaminhado para a plataforma de investimentos.
-
-Com acesso a plataforma e de acordo com seus objetivos, o cliente terá opções de investimentos do Banco Safra e de outras instituições, com os dados obtidos através do Open Banking. Uma vez que o mesmo opte por investir em aplicações do Banco Safra, serão oferecidos benefícios (seguro viagem, previdência, etc) que irão variar dependendo do montante total aplicado.
-
-O programa de benefícios oferecido pela instituição estimula novos investidores a investirem no Banco Safra e potencializa a permanência e migração dos clientes atuais.
+Na plataforma os usuários estipulam seus objetivos, e ao nos fornecerem algumas informações a Safra Smart Invest fornece um portfólio individualizado de investimentos que auxilia o cliente a conquistar seus sonhos de maneira mais inteligente. Além disso, optando por investir conosco, além de realizar seus sonhos, os clientes ganham benefícios exclusivos.
 
 ## Desafio
 
@@ -21,7 +16,7 @@ Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio**
 *"Como podemos inovar e nos diferenciar criando experiências simples, transparentes e instantâneas para os nossos clientes e parceiros, com soluções digitais disruptivas em cenários de crescimento exponencial?"*
 
 ## Tecnologias
-- **Linguagem de Programação** - [Python](https://www.python.org/) - Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface com o front-end.
+- **Linguagem de Programação** - [Python](https://www.python.org/) - Utilizada para realizar a Integração entre banco de dados (MySQL) e a interface lógica com o front-end.
  
 - **Banco de Dados** - [MySQL](https://www.mysql.com/) - Sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. Banco de dados utilizado para uso das API's disponibilizadas pelo Open Banking.
 
@@ -49,6 +44,6 @@ Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio**
 - [Lincoln Soares](https://www.linkedin.com/in/lincoln-soares-jesus/)
 - [Luiz Guilherme](https://www.linkedin.com/in/lguilhermepereira/)
 - [Paulo Cervi](https://www.linkedin.com/in/paulo-henrique-vidal-cervi-07b3a8194/)
-- [Tarik Sorrino](https://www.linkedin.com/in/tharik-jose-sorrino-dos-reis-b83a04127/)
+- [Tharik Sorrino](https://www.linkedin.com/in/tharik-jose-sorrino-dos-reis-b83a04127/)
 - [Victor Hugo](https://www.linkedin.com/in/victor-hugo-danelichen-1643a6203/)
 - [Welerson Souza](https://www.linkedin.com/in/welerson-santos-souza/)

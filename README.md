@@ -35,7 +35,8 @@ Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio**
 | Investimentos | A API Investimentos as instituições financeiras participantes podem consultar a lista de Fundos de Investimentos de outras instituições participantes |
 
 ## Vídeo demonstrativo
-[LINK VÍDEO](youtube.com/)
+
+[<img width="1000px" src="https://github.com/Pesati/Hackathon/blob/main/assets-images/safra_smart_invest.png" />](https://www.safra.com.br/)
 
 ## Autores 
 

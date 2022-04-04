@@ -34,7 +34,7 @@ Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio**
 | Dados cadastrais | A API Dados Cadastrais permite a consulta aos dados cadastrais de clientes, incluindo também dados de qualificação e de relacionamento financeiro.|
 | Investimentos | A API Investimentos as instituições financeiras participantes podem consultar a lista de Fundos de Investimentos de outras instituições participantes |
 
-## Vídeo demonstrativo
+## Vídeo Demo
 
 [<img hight="500px" width="500px" src="https://github.com/Pesati/Safra-Smart-Invest/blob/main/assets-images/logo_video.png" />](https://www.youtube.com/watch?v=qlVFW4Ka9Xs)
 

@@ -36,7 +36,7 @@ Sistema desenvolvido no **Hackathon Technee Banco Safra 2022**, cujo **desafio**
 
 ## Vídeo demonstrativo
 
-[<img width="1000px" src="https://github.com/Pesati/Hackathon/blob/main/assets-images/safra_smart_invest.png" />](https://www.safra.com.br/)
+[<img hight="500px" width="500px" src="https://github.com/Pesati/Safra-Smart-Invest/blob/main/assets-images/logo_video.png" />](https://www.safra.com.br/)
 
 ## Autores 
 

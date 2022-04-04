@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil investidor</title>
+    <link rel="stylesheet" href="/model/form.css">
+</head>
+
+<body>
+    <ul id="mainOptions">
+        <li><a href="https://www.safra.com.br" title="Safra - Página inicial">
+            <img alt="Logo Safra"
+                src="https://www.safra.com.br/lumis-theme/br/com/bancosafra/safranet/theme/safranet/assets/img/logo-safra.svg" class="logoSafra">
+        </a></li>
+        <li><a href="/index.html">Inicio</a></li>
+        <li><a href="/views/form.html">Perfil do investidor</a></li>
+        <li><a href="#analiseCliente">Análise do Cliente</a></li>
+        <li><a href="/views/newInvest.html">Novos objetivos</a></li>
+        <li><a href="/views/listInvestment.html">Opções de investimento</a></li>
+        <li><a href="/views/investOwner.html">Meus investimentos</a></li>
+        <li><a href="/views/login.html">Conta</a></li>
+    </ul>
+
+    <div class="form-box">
+        <h2>Vamos descobrir o seu perfil de investidor</h2>
+            <form class="question-box">
+                <!-- Faixa etaria -->
+                <legend>1) Qual é a sua idade?</legend>
+                <p>
+                    <input type="radio" name="idade" id="idade25">
+                    <label for="idade">Até 25 anos</label>
+                </p>
+                <p>
+                    <input type="radio" name="idade" id="idade26">
+                    <label for="idade">Entre 26 e 40 anos</label>
+                </p>
+                <p>
+                    <input type="radio" name="idade" id="idade41">
+                    <label for="idade">Entre 41 e 64 anos</label>
+                </p>
+                <p>
+                    <input type="radio" name="idade" id="idade65">
+                    <label for="idade">65 anos ou mais</label>
+                </p>
+                <!-- Conhecimento sobre investir -->
+                <legend>2) Qual o seu nível de conhecimento sobre investimentos?</legend>
+                <p>
+                    <input type="radio" name="conhecimento" id="conhecimentoNulo">
+                    <label for="idade">Não tenho conhecimento</label>
+                </p>
+                <p>
+                    <input type="radio" name="conhecimento" id="conhecimentoRazoavel">
+                    <label for="idade">Razoável</label>
+                </p>
+                <p>
+                    <input type="radio" name="conhecimento" id="conhecimentoBom">
+                    <label for="idade">Bom</label>
+                </p>
+                <p>
+                    <input type="radio" name="conhecimento" id="conhecimentoExcelente">
+                    <label for="idade">Excelente</label>
+                </p>
+                <!-- Investimentos conhecidos -->
+                <legend>3) Selecione abaixo os investimentos que você tem ou já teve</legend>
+                <p>
+                    <input type="checkbox" name="investimento" id="poupanca">
+                    <label for="idade">Poupança</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="rendaFixa">
+                    <label for="idade">Titulo de renda fixa (CDB, LCI, LCA, Debêntures, DPGE, FIDC)</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="tesouroDireto">
+                    <label for="idade">Tesouro direto (LFT, LTN, NTN-B, NTN-B Principal, NTN-C, NTN-F)</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="fundosDi">
+                    <label for="idade">Fundos DI e/ou renda fixa</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="fundosAcoes">
+                    <label for="idade">Fundos de ações</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="fundosAcoes">
+                    <label for="idade">Fundos imobiliários</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="fundosAcoes">
+                    <label for="idade">Derivativo</label>
+                </p>
+                <p>
+                    <input type="checkbox" name="investimento" id="fundosAcoes">
+                    <label for="idade">Nunca investi</label>
+                </p>
+                <!-- Objetivo -->
+                <legend>4) Qual é seu objetivo ao investir</legend>
+                <p>
+                    <input type="radio" name="objetivo" id="preservarCapital">
+                    <label for="objetivo">Preservar capital</label>
+                </p>
+                <p>
+                    <input type="radio" name="objetivo" id="acumularRecursos">
+                    <label for="objetivo">Acumular recursos</label>
+                </p>
+                <p>
+                    <input type="radio" name="objetivo" id="especular">
+                    <label for="objetivo">Especular</label>
+                </p>
+                <p>
+                    <input type="radio" name="objetivo" id="metaPessoal">
+                    <label for="objetivo">Realizar uma meta pessoal</label>
+                </p>
+                <!-- Tempo de investimento -->
+                <legend>5) Por quanto tempo você deseja manter o seu investimento?</legend>
+                <p>
+                    <input type="radio" name="tempoInvestimento" id="curtoPrazo">
+                    <label for="tempoInvestimento">Menos de 1 ano - Curto prazo</label>
+                </p>
+                <p>
+                    <input type="radio" name="tempoInvestimento" id="medioPrazo">
+                    <label for="tempoInvestimento">Entre 1 e 3 anos - Médio prazo</label>
+                </p>
+                <p>
+                    <input type="radio" name="tempoInvestimento" id="medioLongoPrazo">
+                    <label for="tempoInvestimento">Entre 3 e 5 anos - Médio-longo prazo</label>
+                </p>
+                <p>
+                    <input type="radio" name="tempoInvestimento" id="longoPrazo">
+                    <label for="tempoInvestimento">Acima de 5 anos - Longo prazo</label>
+                </p>
+                <!-- Risco tolerado -->
+                <legend>6) Qual a melhor opção para descrever sua tolerância ao risco?</legend>
+                <p>
+                    <input type="radio" name="risco" id="riscoBaixo">
+                    <label for="risco">Baixa: quero rentabilidade acima da poupança com preservação do poder de compra</label>
+                </p>
+                <p>
+                    <input type="radio" name="risco" id="riscoRegular">
+                    <label for="risco">Regular: quero rentabilidade próxima a taxa de juros DI (CDI) e aceito eventuais riscos</label>
+                </p>
+                <p>
+                    <input type="radio" name="risco" id="riscoMedio">
+                    <label for="risco">Média: estou disposto a assumir riscos maiores para superar a taxa de juros DI (CDI)</label>
+                </p>
+                <p>
+                    <input type="radio" name="risco" id="riscoAlto">
+                    <label for="risco">Alta: estou disposto a assumir riscos elevados para alcançar retornos expressivos</label>
+                </p>
+        </form>
+        <a class="button" href="./form.html">
+            <b>Definir perfil</b>
+        </a>
+    </div>
+
+</body>
+
+</html>

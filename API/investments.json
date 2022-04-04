@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "name": "Viagem italia",
+        "valueFinal": 5000,
+        "valueCurrent": 200,
+        "dateFinal": "12-12-2022"
+    },
+    {
+        "id":2,
+        "name": "Casa própria",
+        "valueFinal": 500000,
+        "valueCurrent": 15000,
+        "dateFinal": "01-05-2026"
+    }
+]
